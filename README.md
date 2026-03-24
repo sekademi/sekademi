@@ -1,5 +1,5 @@
-SEKA Akademi'ye Hoş Geldin!
+Welcome to Sekademi Cybersecurity!
 
-- Telegram Kanalı: [t.me/sekademi](https://t.me/sekademi)
+- Telegram: [t.me/sekademi](https://t.me/sekademi)
 - Youtube: [youtube.com/@sekademi](https://youtube.com/@sekademi)
-- Direkt Mesaj: [t.me/sekademibot](https://t.me/sekademibot)
+- DM: [t.me/sekademibot](https://t.me/sekademibot)
